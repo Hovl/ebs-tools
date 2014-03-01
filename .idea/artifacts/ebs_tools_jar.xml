@@ -5,6 +5,24 @@
       <element id="archive" name="ebs-tools.jar">
         <element id="module-output" name="ebs-tools" />
         <element id="dir-copy" path="$PROJECT_DIR$/src" />
+        <element id="library" level="project" name="commons-httpclient-3.1" />
+        <element id="library" level="project" name="commons-io" />
+        <element id="library" level="project" name="hibernate" />
+        <element id="library" level="project" name="javaee" />
+        <element id="library" level="project" name="javaxdelta" />
+        <element id="library" level="project" name="jdom" />
+        <element id="library" level="project" name="joda-money-0.6" />
+        <element id="library" level="project" name="json" />
+        <element id="library" level="project" name="junit" />
+        <element id="library" level="project" name="logback" />
+        <element id="library" level="project" name="mail" />
+        <element id="library" level="project" name="maxmindgeoip" />
+        <element id="library" level="project" name="report" />
+        <element id="library" level="project" name="sl4j" />
+        <element id="library" level="project" name="sshj" />
+        <element id="library" level="project" name="upload" />
+        <element id="library" level="project" name="xmlpull" />
+        <element id="library" level="project" name="xom" />
       </element>
     </root>
   </artifact>

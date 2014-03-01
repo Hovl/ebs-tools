@@ -19,7 +19,7 @@ public class CurrencyTest extends TestCase {
     public static final HashMap<String, String> CURRENCY_DATA;
 
     static {
-        CURRENCY_DATA = new HashMap<String, String>(5);
+        CURRENCY_DATA = new HashMap<>(5);
         CURRENCY_DATA.put("RU", "RUB");
         CURRENCY_DATA.put("DE", "EUR");
         CURRENCY_DATA.put("GB", "GBP");

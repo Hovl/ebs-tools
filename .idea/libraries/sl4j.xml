@@ -5,8 +5,6 @@
       <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.6.1.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../libs/slf4j-1.6.1/src" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>

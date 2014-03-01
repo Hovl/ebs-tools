@@ -4,11 +4,7 @@
       <root url="jar://$PROJECT_DIR$/lib/logback-classic-0.9.28.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/logback-core-0.9.28.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="file://$PROJECT_DIR$/../../libs/logback-0.9.28/docs" />
-    </JAVADOC>
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../libs/logback-0.9.28/src" />
-    </SOURCES>
+    <JAVADOC />
+    <SOURCES />
   </library>
 </component>
